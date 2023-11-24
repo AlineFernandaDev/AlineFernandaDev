@@ -1,6 +1,6 @@
 <h1>
 
-**Olá mundo! Eu sou Aline Fernanda, seja bem vindo!**
+**Olá mundo! Eu sou Aline Fernanda**
 <h1>
 
 ![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/AlineFernandaDev/AlineFernandaDev/assets/127868361/db68d590-9d4b-48f6-b999-7b40d2fa7e9f)
