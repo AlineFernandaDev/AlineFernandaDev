@@ -8,7 +8,7 @@
   
 ### :dart: Quem sou eu
 
-Uma pessoa autista em transição de carreira.    
+Uma pessoa em transição de carreira.    
 Atualmente estudo Engenharia de Software.   
 Pretendo deixar aqui os exercicios práticos e projetos pessoais, para então ganhar mais experiência.
 
