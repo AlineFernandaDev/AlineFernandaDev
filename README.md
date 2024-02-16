@@ -8,8 +8,10 @@
   
 ### :dart: Quem sou eu
 
-Uma pessoa em transição de carreira.    
+Uma pessoa curiosa, criativa e autodidata.
+
 Atualmente estudo Engenharia de Software.   
+
 Pretendo deixar aqui os exercicios práticos e projetos pessoais, para então ganhar mais experiência.
 
 ### :calling: Conecte-se Comigo
