@@ -47,7 +47,7 @@ Pretendo deixar aqui os exercicios práticos e projetos pessoais, para então ga
 
 ### :rocket: Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineFernandaDev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlineFernandaDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/AlineFernandaDev/AlineFernandaDev/assets/127868361/2002d2be-6bc1-49c2-81e6-1e61b53734ba)
